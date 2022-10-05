@@ -1,0 +1,374 @@
+2022-10-1 23:30:14 INFO  opencart:15 - URL is opened
+2022-10-1 23:30:15 INFO  opencart:20 - Entered Username
+2022-10-1 23:30:15 INFO  opencart:23 - Entered Password
+2022-10-1 23:30:23 INFO  opencart:29 - Login Test is passed
+2022-10-1 23:32:59 INFO  openCart:15 - URL is opened
+2022-10-1 23:32:59 INFO  openCart:20 - Entered username
+2022-10-1 23:32:59 INFO  openCart:23 - Entered password
+2022-10-1 23:33:08 INFO  openCart:29 - Login Test is passed
+2022-10-2 02:25:17 INFO  openCart:16 - URL is opened
+2022-10-2 02:25:17 INFO  openCart:21 - Entered userName
+2022-10-2 02:25:18 INFO  openCart:24 - Entered password
+2022-10-2 02:25:25 INFO  openCart:30 - Login Test is passed
+2022-10-2 02:27:23 INFO  openCart:16 - URL is opened
+2022-10-2 02:27:24 INFO  openCart:21 - Entered userName
+2022-10-2 02:27:24 INFO  openCart:24 - Entered password
+2022-10-2 02:27:29 INFO  openCart:30 - Login Test is passed
+2022-10-2 02:29:52 INFO  openCart:16 - URL is opened
+2022-10-2 02:29:53 INFO  openCart:21 - Entered userName
+2022-10-2 02:29:53 INFO  openCart:24 - Entered password
+2022-10-2 02:30:02 INFO  openCart:30 - Login Test is passed
+2022-10-2 02:33:01 INFO  openCart:17 - URL is opened
+2022-10-2 02:33:01 INFO  openCart:22 - Entered userName
+2022-10-2 02:33:01 INFO  openCart:25 - Entered password
+2022-10-2 02:33:10 INFO  openCart:31 - Login Test is passed
+2022-10-2 10:50:49 INFO  openCart:17 - URL is opened
+2022-10-2 10:50:49 INFO  openCart:22 - Entered userName
+2022-10-2 10:50:49 INFO  openCart:25 - Entered password
+2022-10-2 10:50:57 INFO  openCart:31 - Login Test is passed
+2022-10-2 12:13:11 INFO  openCart:17 - URL is opened
+2022-10-2 12:13:11 INFO  openCart:22 - Entered userName
+2022-10-2 12:13:11 INFO  openCart:25 - Entered password
+2022-10-2 12:13:21 INFO  openCart:31 - Login Test is passed
+2022-10-2 12:14:26 INFO  openCart:17 - URL is opened
+2022-10-2 12:14:26 INFO  openCart:22 - Entered userName
+2022-10-2 12:14:26 INFO  openCart:25 - Entered password
+2022-10-2 12:14:35 INFO  openCart:31 - Login Test is passed
+2022-10-2 12:53:42 INFO  openCart:19 - URL is opened
+2022-10-2 12:53:42 INFO  openCart:24 - Entered userName
+2022-10-2 12:53:42 INFO  openCart:27 - Entered password
+2022-10-2 16:55:13 INFO  openCart:19 - Username provided
+2022-10-2 16:55:13 INFO  openCart:22 - Password provided
+2022-10-2 16:55:22 INFO  openCart:34 - Login Passed
+2022-10-2 16:55:23 INFO  openCart:19 - Username provided
+2022-10-2 16:55:23 INFO  openCart:22 - Password provided
+2022-10-2 16:55:23 INFO  openCart:34 - Login Passed
+2022-10-2 16:55:25 INFO  openCart:19 - Username provided
+2022-10-2 16:55:25 INFO  openCart:22 - Password provided
+2022-10-2 16:55:25 INFO  openCart:34 - Login Passed
+2022-10-2 18:40:52 INFO  openCart:28 - Username provided
+2022-10-2 18:40:52 INFO  openCart:31 - Password provided
+2022-10-2 18:41:00 INFO  openCart:28 - Username provided
+2022-10-2 18:41:00 INFO  openCart:31 - Password provided
+2022-10-2 18:41:05 INFO  openCart:28 - Username provided
+2022-10-2 18:41:05 INFO  openCart:31 - Password provided
+2022-10-2 18:43:15 INFO  openCart:28 - Username provided
+2022-10-2 18:43:15 INFO  openCart:31 - Password provided
+2022-10-2 18:43:23 INFO  openCart:28 - Username provided
+2022-10-2 18:43:23 INFO  openCart:31 - Password provided
+2022-10-2 18:43:31 INFO  openCart:28 - Username provided
+2022-10-2 18:43:31 INFO  openCart:31 - Password provided
+2022-10-2 18:47:57 INFO  openCart:28 - Username provided
+2022-10-2 18:47:57 INFO  openCart:31 - Password provided
+2022-10-2 18:48:05 INFO  openCart:28 - Username provided
+2022-10-2 18:48:05 INFO  openCart:31 - Password provided
+2022-10-2 18:48:13 INFO  openCart:28 - Username provided
+2022-10-2 18:48:13 INFO  openCart:31 - Password provided
+2022-10-2 19:00:45 INFO  openCart:28 - Username provided
+2022-10-2 19:00:45 INFO  openCart:31 - Password provided
+2022-10-2 19:00:52 INFO  openCart:28 - Username provided
+2022-10-2 19:00:52 INFO  openCart:31 - Password provided
+2022-10-2 19:01:00 INFO  openCart:28 - Username provided
+2022-10-2 19:01:00 INFO  openCart:31 - Password provided
+2022-10-2 19:02:55 INFO  openCart:28 - Username provided
+2022-10-2 19:02:56 INFO  openCart:31 - Password provided
+2022-10-2 19:03:02 INFO  openCart:34 - Login Button Clicked
+2022-10-2 19:03:02 INFO  openCart:28 - Username provided
+2022-10-2 19:03:02 INFO  openCart:31 - Password provided
+2022-10-2 19:03:10 INFO  openCart:34 - Login Button Clicked
+2022-10-2 19:03:10 INFO  openCart:28 - Username provided
+2022-10-2 19:03:10 INFO  openCart:31 - Password provided
+2022-10-2 19:03:18 INFO  openCart:34 - Login Button Clicked
+2022-10-2 19:43:50 INFO  openCart:28 - Username provided
+2022-10-2 19:43:50 INFO  openCart:31 - Password provided
+2022-10-2 19:43:57 INFO  openCart:34 - Login Button Clicked
+2022-10-2 19:43:57 INFO  openCart:28 - Username provided
+2022-10-2 19:43:57 INFO  openCart:31 - Password provided
+2022-10-2 19:44:04 INFO  openCart:34 - Login Button Clicked
+2022-10-2 19:44:04 INFO  openCart:28 - Username provided
+2022-10-2 19:44:04 INFO  openCart:31 - Password provided
+2022-10-2 19:44:10 INFO  openCart:34 - Login Button Clicked
+2022-10-2 19:51:09 INFO  openCart:28 - Username provided
+2022-10-2 19:51:09 INFO  openCart:31 - Password provided
+2022-10-2 19:51:19 INFO  openCart:34 - Login Button Clicked
+2022-10-2 19:51:19 INFO  openCart:28 - Username provided
+2022-10-2 19:51:19 INFO  openCart:31 - Password provided
+2022-10-2 19:51:26 INFO  openCart:34 - Login Button Clicked
+2022-10-2 19:51:26 INFO  openCart:28 - Username provided
+2022-10-2 19:51:26 INFO  openCart:31 - Password provided
+2022-10-2 19:51:33 INFO  openCart:34 - Login Button Clicked
+2022-10-2 19:53:15 INFO  openCart:28 - Username provided
+2022-10-2 19:53:15 INFO  openCart:31 - Password provided
+2022-10-2 19:53:20 INFO  openCart:34 - Login Button Clicked
+2022-10-2 19:53:20 INFO  openCart:28 - Username provided
+2022-10-2 19:53:20 INFO  openCart:31 - Password provided
+2022-10-2 19:53:27 INFO  openCart:34 - Login Button Clicked
+2022-10-2 19:53:27 INFO  openCart:28 - Username provided
+2022-10-2 19:53:27 INFO  openCart:31 - Password provided
+2022-10-2 19:53:33 INFO  openCart:34 - Login Button Clicked
+2022-10-2 19:54:25 INFO  openCart:28 - Username provided
+2022-10-2 19:54:25 INFO  openCart:31 - Password provided
+2022-10-2 19:54:33 INFO  openCart:34 - Login Button Clicked
+2022-10-2 19:54:33 INFO  openCart:28 - Username provided
+2022-10-2 19:54:33 INFO  openCart:31 - Password provided
+2022-10-2 19:54:39 INFO  openCart:34 - Login Button Clicked
+2022-10-2 19:54:39 INFO  openCart:28 - Username provided
+2022-10-2 19:54:39 INFO  openCart:31 - Password provided
+2022-10-2 19:54:46 INFO  openCart:34 - Login Button Clicked
+2022-10-2 19:57:15 INFO  openCart:28 - Username provided
+2022-10-2 19:57:15 INFO  openCart:31 - Password provided
+2022-10-2 19:57:23 INFO  openCart:34 - Login Button Clicked
+2022-10-2 19:57:23 INFO  openCart:28 - Username provided
+2022-10-2 19:57:24 INFO  openCart:31 - Password provided
+2022-10-2 19:57:30 INFO  openCart:34 - Login Button Clicked
+2022-10-2 19:57:30 INFO  openCart:28 - Username provided
+2022-10-2 19:57:30 INFO  openCart:31 - Password provided
+2022-10-2 19:57:38 INFO  openCart:34 - Login Button Clicked
+2022-10-2 20:14:42 INFO  openCart:29 - Username provided
+2022-10-2 20:14:42 INFO  openCart:32 - Password provided
+2022-10-2 20:14:50 INFO  openCart:35 - Login Button Clicked
+2022-10-2 20:14:50 WARN  openCart:41 - Login Failed
+2022-10-2 20:14:50 INFO  openCart:29 - Username provided
+2022-10-2 20:14:50 INFO  openCart:32 - Password provided
+2022-10-2 20:15:00 INFO  openCart:35 - Login Button Clicked
+2022-10-2 20:15:00 WARN  openCart:41 - Login Failed
+2022-10-2 20:15:00 INFO  openCart:29 - Username provided
+2022-10-2 20:15:00 INFO  openCart:32 - Password provided
+2022-10-2 20:15:10 INFO  openCart:35 - Login Button Clicked
+2022-10-2 20:15:10 WARN  openCart:41 - Login Failed
+2022-10-2 20:40:17 INFO  openCart:29 - Username provided
+2022-10-2 20:40:17 INFO  openCart:32 - Password provided
+2022-10-2 20:40:25 INFO  openCart:35 - Login Button Clicked
+2022-10-2 20:40:25 WARN  openCart:41 - Login Failed
+2022-10-2 20:40:25 INFO  openCart:29 - Username provided
+2022-10-2 20:40:25 INFO  openCart:32 - Password provided
+2022-10-2 20:40:30 INFO  openCart:35 - Login Button Clicked
+2022-10-2 20:40:30 WARN  openCart:41 - Login Failed
+2022-10-2 20:40:31 INFO  openCart:29 - Username provided
+2022-10-2 20:40:31 INFO  openCart:32 - Password provided
+2022-10-2 20:40:36 INFO  openCart:35 - Login Button Clicked
+2022-10-2 20:40:36 WARN  openCart:41 - Login Failed
+2022-10-2 22:53:29 INFO  openCart:29 - Username provided
+2022-10-2 22:53:29 INFO  openCart:32 - Password provided
+2022-10-2 22:53:39 INFO  openCart:35 - Login Button Clicked
+2022-10-2 22:53:40 WARN  openCart:43 - Login Failed
+2022-10-2 22:53:40 INFO  openCart:29 - Username provided
+2022-10-2 22:53:40 INFO  openCart:32 - Password provided
+2022-10-2 22:53:48 INFO  openCart:35 - Login Button Clicked
+2022-10-2 22:53:48 WARN  openCart:43 - Login Failed
+2022-10-2 22:53:48 INFO  openCart:29 - Username provided
+2022-10-2 22:53:48 INFO  openCart:32 - Password provided
+2022-10-2 22:53:57 INFO  openCart:35 - Login Button Clicked
+2022-10-2 22:53:57 WARN  openCart:43 - Login Failed
+2022-10-2 23:18:51 INFO  openCart:29 - Username provided
+2022-10-2 23:18:51 INFO  openCart:32 - Password provided
+2022-10-2 23:18:56 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:18:56 WARN  openCart:43 - Login Failed
+2022-10-2 23:18:56 INFO  openCart:29 - Username provided
+2022-10-2 23:18:56 INFO  openCart:32 - Password provided
+2022-10-2 23:19:04 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:19:04 WARN  openCart:43 - Login Failed
+2022-10-2 23:19:04 INFO  openCart:29 - Username provided
+2022-10-2 23:19:05 INFO  openCart:32 - Password provided
+2022-10-2 23:19:13 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:19:13 WARN  openCart:43 - Login Failed
+2022-10-2 23:21:12 INFO  openCart:29 - Username provided
+2022-10-2 23:21:12 INFO  openCart:32 - Password provided
+2022-10-2 23:21:20 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:21:20 WARN  openCart:43 - Login Failed
+2022-10-2 23:21:20 INFO  openCart:29 - Username provided
+2022-10-2 23:21:21 INFO  openCart:32 - Password provided
+2022-10-2 23:21:34 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:21:34 WARN  openCart:43 - Login Failed
+2022-10-2 23:21:35 INFO  openCart:29 - Username provided
+2022-10-2 23:21:35 INFO  openCart:32 - Password provided
+2022-10-2 23:21:40 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:21:40 WARN  openCart:43 - Login Failed
+2022-10-2 23:34:45 INFO  openCart:29 - Username provided
+2022-10-2 23:34:45 INFO  openCart:32 - Password provided
+2022-10-2 23:34:54 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:34:54 INFO  openCart:43 - Login Passed
+2022-10-2 23:34:55 INFO  openCart:29 - Username provided
+2022-10-2 23:34:55 INFO  openCart:32 - Password provided
+2022-10-2 23:34:55 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:34:55 INFO  openCart:43 - Login Passed
+2022-10-2 23:34:56 INFO  openCart:29 - Username provided
+2022-10-2 23:34:56 INFO  openCart:32 - Password provided
+2022-10-2 23:34:56 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:34:56 INFO  openCart:43 - Login Passed
+2022-10-2 23:38:10 INFO  openCart:29 - Username provided
+2022-10-2 23:38:11 INFO  openCart:32 - Password provided
+2022-10-2 23:38:19 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:38:19 INFO  openCart:43 - Login Passed
+2022-10-2 23:38:20 INFO  openCart:29 - Username provided
+2022-10-2 23:38:20 INFO  openCart:32 - Password provided
+2022-10-2 23:38:20 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:38:20 INFO  openCart:43 - Login Passed
+2022-10-2 23:38:21 INFO  openCart:29 - Username provided
+2022-10-2 23:38:21 INFO  openCart:32 - Password provided
+2022-10-2 23:38:21 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:38:21 INFO  openCart:43 - Login Passed
+2022-10-2 23:41:54 INFO  openCart:29 - Username provided
+2022-10-2 23:41:54 INFO  openCart:32 - Password provided
+2022-10-2 23:42:02 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:42:02 INFO  openCart:43 - Login Passed
+2022-10-2 23:42:12 INFO  openCart:29 - Username provided
+2022-10-2 23:42:12 INFO  openCart:32 - Password provided
+2022-10-2 23:42:22 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:42:22 INFO  openCart:43 - Login Passed
+2022-10-2 23:42:32 INFO  openCart:29 - Username provided
+2022-10-2 23:42:32 INFO  openCart:32 - Password provided
+2022-10-2 23:42:41 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:42:41 INFO  openCart:43 - Login Passed
+2022-10-2 23:45:49 INFO  openCart:29 - Username provided
+2022-10-2 23:45:49 INFO  openCart:32 - Password provided
+2022-10-2 23:45:56 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:46:06 INFO  openCart:29 - Username provided
+2022-10-2 23:46:06 INFO  openCart:32 - Password provided
+2022-10-2 23:46:15 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:46:25 INFO  openCart:29 - Username provided
+2022-10-2 23:46:25 INFO  openCart:32 - Password provided
+2022-10-2 23:46:34 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:52:01 INFO  openCart:29 - Username provided
+2022-10-2 23:52:01 INFO  openCart:32 - Password provided
+2022-10-2 23:52:08 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:52:18 INFO  openCart:29 - Username provided
+2022-10-2 23:52:18 INFO  openCart:32 - Password provided
+2022-10-2 23:52:23 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:55:57 INFO  openCart:29 - Username provided
+2022-10-2 23:55:57 INFO  openCart:32 - Password provided
+2022-10-2 23:56:03 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:56:14 INFO  openCart:29 - Username provided
+2022-10-2 23:56:14 INFO  openCart:32 - Password provided
+2022-10-2 23:56:18 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:57:54 INFO  openCart:29 - Username provided
+2022-10-2 23:57:54 INFO  openCart:32 - Password provided
+2022-10-2 23:58:01 INFO  openCart:35 - Login Button Clicked
+2022-10-2 23:58:11 INFO  openCart:29 - Username provided
+2022-10-2 23:58:11 INFO  openCart:32 - Password provided
+2022-10-2 23:58:16 INFO  openCart:35 - Login Button Clicked
+2022-10-3 00:01:07 INFO  openCart:29 - Username provided
+2022-10-3 00:01:07 INFO  openCart:32 - Password provided
+2022-10-3 00:01:14 INFO  openCart:35 - Login Button Clicked
+2022-10-3 00:01:24 INFO  openCart:29 - Username provided
+2022-10-3 00:01:24 INFO  openCart:32 - Password provided
+2022-10-3 00:01:25 INFO  openCart:35 - Login Button Clicked
+2022-10-3 00:03:59 INFO  openCart:29 - Username provided
+2022-10-3 00:03:59 INFO  openCart:32 - Password provided
+2022-10-3 00:04:05 INFO  openCart:35 - Login Button Clicked
+2022-10-3 00:04:15 INFO  openCart:29 - Username provided
+2022-10-3 00:04:15 INFO  openCart:32 - Password provided
+2022-10-3 00:04:16 INFO  openCart:35 - Login Button Clicked
+2022-10-3 00:10:37 INFO  openCart:29 - Username provided
+2022-10-3 00:10:37 INFO  openCart:32 - Password provided
+2022-10-3 00:10:43 INFO  openCart:35 - Login Button Clicked
+2022-10-3 00:10:54 INFO  openCart:29 - Username provided
+2022-10-3 00:10:54 INFO  openCart:32 - Password provided
+2022-10-3 00:10:55 INFO  openCart:35 - Login Button Clicked
+2022-10-3 00:12:25 INFO  openCart:29 - Username provided
+2022-10-3 00:12:25 INFO  openCart:32 - Password provided
+2022-10-3 00:12:32 INFO  openCart:35 - Login Button Clicked
+2022-10-3 00:12:42 INFO  openCart:29 - Username provided
+2022-10-3 00:12:42 INFO  openCart:32 - Password provided
+2022-10-3 00:12:49 INFO  openCart:35 - Login Button Clicked
+2022-10-3 00:12:59 INFO  openCart:29 - Username provided
+2022-10-3 00:13:00 INFO  openCart:32 - Password provided
+2022-10-3 00:13:07 INFO  openCart:35 - Login Button Clicked
+2022-10-3 10:29:26 INFO  openCart:29 - Username provided
+2022-10-3 10:29:26 INFO  openCart:32 - Password provided
+2022-10-3 10:29:37 INFO  openCart:35 - Login Button Clicked
+2022-10-3 10:29:47 INFO  openCart:29 - Username provided
+2022-10-3 10:29:47 INFO  openCart:32 - Password provided
+2022-10-3 10:29:56 INFO  openCart:35 - Login Button Clicked
+2022-10-3 10:57:19 INFO  openCart:29 - Username provided
+2022-10-3 10:57:19 INFO  openCart:32 - Password provided
+2022-10-3 10:57:28 INFO  openCart:35 - Login Button Clicked
+2022-10-3 10:57:38 WARN  openCart:72 - Login Failed
+2022-10-3 10:57:48 INFO  openCart:29 - Username provided
+2022-10-3 10:57:48 INFO  openCart:32 - Password provided
+2022-10-3 10:57:56 INFO  openCart:35 - Login Button Clicked
+2022-10-3 10:58:02 WARN  openCart:72 - Login Failed
+2022-10-3 11:00:24 INFO  openCart:29 - Username provided
+2022-10-3 11:00:24 INFO  openCart:32 - Password provided
+2022-10-3 11:00:33 INFO  openCart:35 - Login Button Clicked
+2022-10-3 11:00:43 WARN  openCart:72 - Login Failed
+2022-10-3 11:00:52 INFO  openCart:29 - Username provided
+2022-10-3 11:00:52 INFO  openCart:32 - Password provided
+2022-10-3 11:01:00 INFO  openCart:35 - Login Button Clicked
+2022-10-3 11:01:00 INFO  openCart:64 - Login Passed
+2022-10-3 11:01:02 INFO  openCart:29 - Username provided
+2022-10-3 11:01:03 INFO  openCart:32 - Password provided
+2022-10-3 11:01:10 INFO  openCart:35 - Login Button Clicked
+2022-10-3 11:01:20 WARN  openCart:72 - Login Failed
+2022-10-3 11:13:00 INFO  openCart:29 - Username provided
+2022-10-3 11:13:00 INFO  openCart:32 - Password provided
+2022-10-3 11:13:08 INFO  openCart:35 - Login Button Clicked
+2022-10-3 11:13:18 WARN  openCart:72 - Login Failed
+2022-10-3 11:13:28 INFO  openCart:29 - Username provided
+2022-10-3 11:13:28 INFO  openCart:32 - Password provided
+2022-10-3 11:13:36 INFO  openCart:35 - Login Button Clicked
+2022-10-3 11:13:36 INFO  openCart:64 - Login Passed
+2022-10-3 11:13:38 INFO  openCart:29 - Username provided
+2022-10-3 11:13:38 INFO  openCart:32 - Password provided
+2022-10-3 11:13:46 INFO  openCart:35 - Login Button Clicked
+2022-10-3 11:13:56 WARN  openCart:72 - Login Failed
+2022-10-3 21:20:42 INFO  openCart:25 - UserName provided
+2022-10-3 21:20:42 INFO  openCart:28 - Password provided
+2022-10-3 21:20:53 INFO  openCart:31 - Login Button Clicked
+2022-10-3 21:21:03 WARN  openCart:45 - Login Failed
+2022-10-3 21:21:09 INFO  openCart:25 - UserName provided
+2022-10-3 21:21:09 INFO  openCart:28 - Password provided
+2022-10-3 21:21:17 INFO  openCart:31 - Login Button Clicked
+2022-10-3 21:21:17 INFO  openCart:37 - Login Passed
+2022-10-3 21:21:20 INFO  openCart:25 - UserName provided
+2022-10-3 21:21:20 INFO  openCart:28 - Password provided
+2022-10-3 21:21:31 INFO  openCart:31 - Login Button Clicked
+2022-10-3 21:21:41 WARN  openCart:45 - Login Failed
+2022-10-3 23:59:56 INFO  openCart:25 - UserName provided
+2022-10-3 23:59:56 INFO  openCart:28 - Password provided
+2022-10-4 00:00:04 INFO  openCart:31 - Login Button Clicked
+2022-10-4 00:00:14 WARN  openCart:45 - Login Failed
+2022-10-4 00:00:25 INFO  openCart:25 - UserName provided
+2022-10-4 00:00:25 INFO  openCart:28 - Password provided
+2022-10-4 00:00:37 INFO  openCart:31 - Login Button Clicked
+2022-10-4 00:00:37 INFO  openCart:37 - Login Passed
+2022-10-4 00:00:39 INFO  openCart:25 - UserName provided
+2022-10-4 00:00:39 INFO  openCart:28 - Password provided
+2022-10-4 00:00:50 INFO  openCart:31 - Login Button Clicked
+2022-10-4 00:01:00 WARN  openCart:45 - Login Failed
+2022-10-4 12:01:53 INFO  openCart:25 - UserName provided
+2022-10-4 12:01:53 INFO  openCart:28 - Password provided
+2022-10-4 12:02:01 INFO  openCart:31 - Login Button Clicked
+2022-10-4 12:02:11 WARN  openCart:45 - Login Failed
+2022-10-4 12:02:24 INFO  openCart:25 - UserName provided
+2022-10-4 12:02:24 INFO  openCart:28 - Password provided
+2022-10-4 12:02:31 INFO  openCart:31 - Login Button Clicked
+2022-10-4 12:02:31 INFO  openCart:37 - Login Passed
+2022-10-4 12:02:34 INFO  openCart:25 - UserName provided
+2022-10-4 12:02:34 INFO  openCart:28 - Password provided
+2022-10-4 12:02:42 INFO  openCart:31 - Login Button Clicked
+2022-10-4 12:02:52 WARN  openCart:45 - Login Failed
+2022-10-4 20:52:25 INFO  openCart:25 - UserName provided
+2022-10-4 20:52:25 INFO  openCart:28 - Password provided
+2022-10-4 20:52:34 INFO  openCart:31 - Login Button Clicked
+2022-10-4 20:52:44 WARN  openCart:45 - Login Failed
+2022-10-4 20:52:51 INFO  openCart:25 - UserName provided
+2022-10-4 20:52:51 INFO  openCart:28 - Password provided
+2022-10-4 20:52:59 INFO  openCart:31 - Login Button Clicked
+2022-10-4 20:52:59 INFO  openCart:37 - Login Passed
+2022-10-4 20:53:01 INFO  openCart:25 - UserName provided
+2022-10-4 20:53:01 INFO  openCart:28 - Password provided
+2022-10-4 20:53:10 INFO  openCart:31 - Login Button Clicked
+2022-10-4 20:53:20 WARN  openCart:45 - Login Failed
+2022-10-4 20:56:12 INFO  openCart:25 - UserName provided
+2022-10-4 20:56:12 INFO  openCart:28 - Password provided
+2022-10-4 20:56:21 INFO  openCart:31 - Login Button Clicked
+2022-10-4 20:56:32 WARN  openCart:45 - Login Failed
+2022-10-4 20:56:43 INFO  openCart:25 - UserName provided
+2022-10-4 20:56:43 INFO  openCart:28 - Password provided
+2022-10-4 20:56:52 INFO  openCart:31 - Login Button Clicked
+2022-10-4 20:56:52 INFO  openCart:37 - Login Passed
+2022-10-4 20:56:54 INFO  openCart:25 - UserName provided
+2022-10-4 20:56:54 INFO  openCart:28 - Password provided
+2022-10-4 20:57:01 INFO  openCart:31 - Login Button Clicked
+2022-10-4 20:57:11 WARN  openCart:45 - Login Failed
